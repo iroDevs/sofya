@@ -21,8 +21,18 @@
     font-size: 16pt;
 }
 
+.button-group * {
+    margin: 10px;
+
+}
+
 .number-title {
     font-size: 20pt;
     text-align: center;
     color: var(--main-words-color);
+}
+
+.motivo {
+    margin-top: 40%;
+    color: white;
 }
