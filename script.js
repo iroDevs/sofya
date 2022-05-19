@@ -52,14 +52,14 @@ let motivos = [
     "VOCÊ QUE ME TRAZ MAIS AMOR E ME FAZ ALGUME MELHOR",
 ];
 
-let btnRadom = document.querySelector('#radom');
+
 let btnProximo = document.querySelector('#proximo');
 let btnAnterior = document.querySelector('#anterior');
 let displayMotivo = document.querySelector('#motivoDisplay');
 let contadorDisplay = document.querySelector('#contador');
 let contador = 0 ;
 
-btnRadom.addEventListener('click',radom);
+
 btnProximo.addEventListener('click',proximo);
 btnAnterior.addEventListener('click',anterior);
 
@@ -90,7 +90,4 @@ function anterior() {
     renderiza();
 }
 
-function radom() {
-    
-}
 
