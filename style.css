@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root {
+    --main-bg-color: rgb(33, 34, 37);
+    --main-words-color: rgb(230, 230, 230);
+}
+
+.bg-main {
+    background-color: var(--main-bg-color);
+}
+
+.main {
+    text-align: center;
+}
+
+.main-title {
+    color: var(--main-words-color);
+    font-size: 16pt;
+}
+
+.button-group * {
+    margin: 10px;
+
+}
+
+.number-title {
+    font-size: 20pt;
+    text-align: center;
+    color: var(--main-words-color);
+}
+
+.motivo {
+    margin-top: 20%;
+    color: white;
+}
