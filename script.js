@@ -49,7 +49,7 @@ let motivos = [
     "seu sono que me faz querer dormir do seu lado todos os dias",
     "seus presentes",
     "seu desejo de conquistar",
-    "VOCÊ QUE ME TRAZ MAIS AMOR E ME FAZ ALGUME MELHOR",
+    "VOCÊ QUE ME TRAZ MAIS AMOR ",
 ];
 
 
