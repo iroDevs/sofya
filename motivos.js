@@ -48,7 +48,7 @@ let motivos = [
     "sua fraqueza a certas investidas minhas rsrs",
     "seu sono que me faz querer dormir do seu lado todos os dias",
     "seus presentes",
-    "VOCÊ QUE ME TRAZ MAIS AMOR E ME FAZ ALGUME MELHOR",
+    "VOCÊ QUE ME TRAZ MAIS AMOR E ME FAZ ALGUEM MELHOR",
 ];
 
-export default motivos;
+module.exports = motivos;
